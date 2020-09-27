@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning cryptography, mathematical analysis, and linear algebra.
 - 👯 I’m looking to collaborate on the up and coming Utah tech scene.
 - 🤔 I’m looking for help with any of the above.
-- 💬 Ask me about TeachingKidsProgramming, LearnWDL, and how mathematics and computer programming go hand-in-hand.
+- 💬 Ask me about [TeachingKidsProgramming](https://github.com/TeachingKidsProgramming), [LearnWDL](https://github.com/openwdl/learn-wdl), and how mathematics and computer programming go hand-in-hand.
 - 📫 How to reach me: 
   - brickellis@yahoo.com
   - https://www.linkedin.com/in/brick-e-4bba8a132/
