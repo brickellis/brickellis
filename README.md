@@ -1,5 +1,5 @@
 ### If you came here from the [LinkedIn Learning Course](https://www.linkedin.com/learning/craft-a-great-github-profile), I'm happy to have you. Yes, Brick is my real name.
-- 🎓 Bachelor's in Mathematics from Brigham Young University 2020
+- 🎓 Bachelor's in Mathematics from Brigham Young University, December 2020
 - 🔭 I’m currently working on detecting fraudulent data in African genealogical interviews.
 - 🌱 I’m currently learning Python, specifically in regards to data analytics.
 - 👯 I’m looking to collaborate on the up and coming Utah tech scene.
