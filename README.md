@@ -7,4 +7,4 @@
 - 📫 How to reach me: 
   - brickellis@yahoo.com
   - https://www.linkedin.com/in/brick-e-4bba8a132/
-- ⚡ Fun fact: I speak Russian. Скучаю по халве и квасу больше всегою
+- ⚡ Fun fact: I speak Russian. Скучаю по халве и квасу больше всего.
