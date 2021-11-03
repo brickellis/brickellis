@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate in the fields of statistics and psychology.
 - 💬 Ask me about [TeachingKidsProgramming](https://github.com/TeachingKidsProgramming), [LearnWDL](https://github.com/openwdl/learn-wdl), and how mathematics and computer programming go hand-in-hand.
 - 📫 How to reach me: 
-  - brickellis1@yahoo.com
+  - brickellis@yahoo.com
   - https://www.linkedin.com/in/brick-e-4bba8a132/
-- ⚡ Fun fact: I speak Russian. Здравствуйте друзья
+- ⚡ Fun fact: I speak Russian. Скучаю по халве и квасу больше всегою
